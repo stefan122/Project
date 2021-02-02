@@ -1,0 +1,49 @@
+<style>
+div#header{
+  width: 1889px;
+  height: 250px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 8px;
+  background-color: #ccc;
+  box-shadow: 0px 0px 10px 0px;
+  margin-top: -10px;
+}
+#logo{
+  position: absolute;
+  margin-left: 385px;
+  margin-top: 85px;
+}
+.searchbar{
+  font-size: 17px;
+  float: right;
+  margin-top: 7%;
+  margin-right: 400px;
+}
+#searchBar {
+border: 1px solid #000;
+border-right: none;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+font-size: 16px;
+padding: 5px;
+outline: none;
+width: 250px;
+}
+#searchBtn{
+ border: 1px solid #000;
+ border-bottom-right-radius: 5px;
+ border-top-right-radius: 5px;
+ font-size: 16px;
+ padding: 5px;
+ background-color: #f94c3f;
+ color: #fff;
+}
+#searchBtn:hover{
+ background-color: #e11d0f;
+ transition: all 0.50s;
+}
+</style>
